@@ -1,8 +1,1 @@
-Cultivated and Enthusiastic Expert with an Unwavering Passion for Crafting
-Innovative Algorithmic Solutions. Leveraging Comprehensive Proficiency as a
-Seasoned Software Developer Primed in PHP, Accomplished in PLC Programming,
-and Adept in the Realm of Electrical Instrumentation and Control. Demonstrated
-Prowess Extends to the Successful Application of Lean Methodologies, Including 5S
-for Organizational Efficiency, Total Productive Maintenance (TPM) for Optimal
-Workflow, and Single-Minute Exchange of Die (SMED) for Streamlined Operations.
-
+I possess solid skills in web development using PHP and am currently exploring the potential integration between SaaS and IoT. My experience as an Electrical Engineer provides a strong foundation in instrumentation, control and explore microcontrollers with programming languages. I have a vision to merge this knowledge in innovative projects in the future.
