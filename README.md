@@ -1,8 +1,6 @@
 ### Hi! 👋 I'm Wahyu
 
-I possess solid skills in web development using PHP and am currently exploring the potential integration between SaaS and IoT. My experience as an Electrical Engineer provides a strong foundation in instrumentation, control and explore microcontrollers with programming languages. I have a vision to merge this knowledge in innovative projects in the future.
-
-- 🌱 I’m currently learning about fullstack developer with Laravel Framework
+- 🌱 I’m currently learning about fullstack developer with MERN-Stack
 - 💬 Feel free to ask me about web development
 - 📫 How to reach me : queensha.19aam@gmail.com
 
