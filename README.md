@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Wahyu
+### Hi! 👋 I'm WAHYU
 
 - 🌱 I’m currently learning about fullstack developer with MERN-Stack
 - 💬 Feel free to ask me about web development
