@@ -25,10 +25,6 @@ Electrical Maintenance Engineer with 13+ years of experience in industrial autom
 </a>
 </p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ## 🤝 Open Source & Collaboration
 I'm looking for beginner-friendly open-source projects to learn, collaborate and improve my skills — especially in web development and industrial digitalization.
 
