@@ -9,12 +9,14 @@ Electrical Maintenance Engineer with 13+ years of experience in industrial autom
 🎯 Goal : combine OT (Operational Technology) + IT for Industry 4.0 solutions
 
 ## 🛠️ Tech Stack (Learning / Basic Level)
-- JavaScript (Basic)
-- MERN Stack (Beginner)
-- HTML & CSS (Basic)
 - Git & GitHub (Learning)
 - Industrial Tech : Mitsubishi PLC, HMI, HollySys DCS, Instrumentation (4–20mA)
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
 ## 📊 GitHub Stats
 <p align="left">
 <a href="https://github.com/teguhwahyudiono">
@@ -22,6 +24,10 @@ Electrical Maintenance Engineer with 13+ years of experience in industrial autom
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teguhwahyudiono&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🤝 Open Source & Collaboration
 I'm looking for beginner-friendly open-source projects to learn, collaborate and improve my skills — especially in web development and industrial digitalization.
